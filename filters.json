@@ -1,4 +1,6 @@
 {
-    "people": ["films", "species"],
-    "planets": ["residents", "films"]
+  "people": ["films", "species"],
+  "planets": ["films", "residents"],
+  "films": ["characters", "planets"]
 }
+
